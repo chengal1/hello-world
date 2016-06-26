@@ -1,5 +1,5 @@
 # hello-world
 
-HELLO!!
+Hello..
 
-My name is Gal
+My name is Gal!!
